@@ -1,4 +1,4 @@
-# API
+# API de Usuários com Node.js, Express e Prisma
 
 API HTTP construída com Node.js e Express, com uma estrutura inicial de modelo de usuários usando Prisma e MongoDB.
 

@@ -96,7 +96,3 @@ O schema define o modelo `User` no MongoDB com os campos `id`, `name` e `email`.
 | --- | --- |
 | `npm start` | Inicia o servidor com `node --watch` |
 | `npm test` | Script de teste ainda não implementado |
-
-## Licença
-
-Este projeto usa a licença ISC.# API
